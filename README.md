@@ -1,4 +1,4 @@
-#GO Protocol Buffers
+# GO Protocol Buffers
 
 -[Go Installation](https://golang.org/doc/install)
 
